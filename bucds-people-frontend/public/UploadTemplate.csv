@@ -1,0 +1,4 @@
+﻿Name,Pronouns,Email,Type,Cohort,Research Tags,Research Overview,Affiliations,Relationships,Other Tags
+example1,He/Him,ex1@bu.edu,phd,2022,"tag1,tag2,tag3",Block of text-lists should not have any spaces between values and be comma separated. Relationships should use a colon to separate the person and relationship type for each relation,"org1,org2,org3","example2:advisor,example3:collaborator","tag4,tag5"
+example2,They/Them,ex2@bu.edu,faculty,,"tag1,tag6","The only required values are Name, Email, and Type",org4,example1:advisor,
+example3,,ex3@bu.edu,phd,2023,,,,example1:collaborator,

@@ -17,7 +17,6 @@ export const usePeopleStore = defineStore('people', () => {
         },
         {
             "Name": "Wesley Wildman",
-            "Pronouns": "He/Him",
             "Email": "wwildman@bu.edu",
             "Type": "faculty",
             "Cohort": null,
